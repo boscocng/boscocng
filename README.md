@@ -8,7 +8,7 @@ I've led teams across 6+ projects to ship award‑winning web applications servi
 
 #### Fun Facts:
 
-* I love the 60s and 70s rock
+* I love 60s and 70s rock
 * Big film guy
 * I'm in a band
 * **Hobbies:** health, guitar, hockey
