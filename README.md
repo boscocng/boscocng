@@ -6,9 +6,6 @@ I'm a software engineer and second‑year CS student at Queen's University. At m
 
 I've led teams across 8+ projects to ship award‑winning web applications serving 8,400+ active users. 
 
-#### Fun Facts:
+View my work at [boscong.dev](https://www.boscong.dev/) or visit my [LinkedIn](https://linkedin.com/in/bosco-c-ng/)
 
-* I love 60s and 70s rock
-* Big film guy
-* I'm in a band
-* **Hobbies:** health, guitar, hockey
+
