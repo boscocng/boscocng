@@ -4,7 +4,7 @@ I’m [**Bosco**](https://www.boscong.dev),
 
 I'm a software engineer and second‑year CS student at Queen's University. At my core, I'm a leader who bridges programming, creativity, and technology to drive impact.
 
-I've led teams across 6+ projects to ship award‑winning web applications serving 2,400+ active users. 
+I've led teams across 8+ projects to ship award‑winning web applications serving 8,400+ active users. 
 
 #### Fun Facts:
 
