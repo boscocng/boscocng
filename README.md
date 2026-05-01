@@ -6,6 +6,6 @@ I'm a software engineer and second‑year CS student at Queen's University. At m
 
 I've led teams across 8+ projects to ship award‑winning web applications serving 8,400+ active users. 
 
-View my work at [boscong.dev](https://www.boscong.dev/) or visit my [LinkedIn](https://linkedin.com/in/bosco-c-ng/)
+visit my [LinkedIn](https://linkedin.com/in/bosco-c-ng/)
 
 
