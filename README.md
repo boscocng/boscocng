@@ -6,6 +6,6 @@ I'm a software engineer @ clover labs and second‑year CS student at Queen's Un
 
 I've led teams across 8+ projects to ship award‑winning web applications serving 8,400+ active users. 
 
-visit my [LinkedIn](https://linkedin.com/in/bosco-c-ng/)
+visit my [LinkedIn](https://linkedin.com/in/bosco-c-ng/), [X](https://x.com/boscocng)
 
 
